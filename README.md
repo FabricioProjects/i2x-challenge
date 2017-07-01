@@ -6,7 +6,7 @@ import nltk  \
 from nltk.corpus import stopwords \
 from collections import defaultdict, Counter \
 import operator \
-import math \
+import math 
 
 # INSTALL
 just put the *i2x.py* file on your python module's directory
