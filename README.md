@@ -5,13 +5,13 @@ Keywords and Words similarity between texts using cossine similarity method.
 Install the following dependeces using pip:
 
 pip install nltk \
-pip install pandas \
+pip install pandas 
 
 run the python interpreter and type: \
 import nltk \
-nltk.download() \
+nltk.download() 
 
-now download corpora stopwords from nltk downloader \
+now download corpora stopwords from nltk downloader 
 
 ### INSTALL
 just put the *i2x.py* file on your python module's directory
